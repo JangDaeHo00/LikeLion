@@ -86,8 +86,20 @@ namespace Study7
             //Console.WriteLine(a);
 
 
+            //증감 연산자
+            //int b = 3;
 
+            ////전위 ++b, 후위 b++
 
+            ////Console.WriteLine("b의 값은 : " + (++b));  // 이 라인에서 +1을 해준다.
+            ////Console.WriteLine("b의 값은 : " + (b++));    // b값을 +1 한다.
+            ////Console.WriteLine("b의 값은 : " + (b));  // +1한 b의 값을 출력.
+
+          
+            //Console.WriteLine("b의 값은 : " + b);
+            //Console.WriteLine("b의 값은 : " + (--b));  // 이 라인에서 -1을 해준다.
+            //Console.WriteLine("b의 값은 : " + (b++));  // b값을 -1한다.
+            //Console.WriteLine("b의 값은 : " + (b));    // -1한 b의 값을 출력.
 
 
 
