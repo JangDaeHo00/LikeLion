@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\Study9\Study9\bin\Debug\Study9.exe.config
+C:\LikeLion\LikeLion\Study9\Study9\bin\Debug\Study9.exe
+C:\LikeLion\LikeLion\Study9\Study9\bin\Debug\Study9.pdb
+C:\LikeLion\LikeLion\Study9\Study9\obj\Debug\Study9.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\Study9\Study9\obj\Debug\Study9.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\Study9\Study9\obj\Debug\Study9.exe
+C:\LikeLion\LikeLion\Study9\Study9\obj\Debug\Study9.pdb
