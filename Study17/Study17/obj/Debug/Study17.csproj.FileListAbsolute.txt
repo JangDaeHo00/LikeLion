@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\Study17\Study17\bin\Debug\Study17.exe.config
+C:\LikeLion\LikeLion\Study17\Study17\bin\Debug\Study17.exe
+C:\LikeLion\LikeLion\Study17\Study17\bin\Debug\Study17.pdb
+C:\LikeLion\LikeLion\Study17\Study17\obj\Debug\Study17.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\Study17\Study17\obj\Debug\Study17.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\Study17\Study17\obj\Debug\Study17.exe
+C:\LikeLion\LikeLion\Study17\Study17\obj\Debug\Study17.pdb

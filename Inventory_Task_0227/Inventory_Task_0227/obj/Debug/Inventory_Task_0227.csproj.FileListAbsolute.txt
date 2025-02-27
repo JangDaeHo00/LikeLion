@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\Inventory_Task_0227\Inventory_Task_0227\bin\Debug\Inventory_Task_0227.exe.config
+C:\LikeLion\LikeLion\Inventory_Task_0227\Inventory_Task_0227\bin\Debug\Inventory_Task_0227.exe
+C:\LikeLion\LikeLion\Inventory_Task_0227\Inventory_Task_0227\bin\Debug\Inventory_Task_0227.pdb
+C:\LikeLion\LikeLion\Inventory_Task_0227\Inventory_Task_0227\obj\Debug\Inventory_Task_0227.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\Inventory_Task_0227\Inventory_Task_0227\obj\Debug\Inventory_Task_0227.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\Inventory_Task_0227\Inventory_Task_0227\obj\Debug\Inventory_Task_0227.exe
+C:\LikeLion\LikeLion\Inventory_Task_0227\Inventory_Task_0227\obj\Debug\Inventory_Task_0227.pdb

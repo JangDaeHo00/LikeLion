@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\Study16\Study16\bin\Debug\Study16.exe.config
+C:\LikeLion\LikeLion\Study16\Study16\bin\Debug\Study16.exe
+C:\LikeLion\LikeLion\Study16\Study16\bin\Debug\Study16.pdb
+C:\LikeLion\LikeLion\Study16\Study16\obj\Debug\Study16.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\Study16\Study16\obj\Debug\Study16.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\Study16\Study16\obj\Debug\Study16.exe
+C:\LikeLion\LikeLion\Study16\Study16\obj\Debug\Study16.pdb

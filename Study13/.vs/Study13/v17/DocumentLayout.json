@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LikeLion\\LikeLion\\Study13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73D1C13E-A4A2-4CF4-9F1F-A61FCEE24B34}|Study13\\Study13.csproj|c:\\likelion\\likelion\\study13\\study13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D1C13E-A4A2-4CF4-9F1F-A61FCEE24B34}|Study13\\Study13.csproj|solutionrelative:study13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\Study13\\Study13\\Program.cs",
+              "RelativeDocumentMoniker": "Study13\\Program.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\Study13\\Study13\\Program.cs",
+              "RelativeToolTip": "Study13\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T01:14:28.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
