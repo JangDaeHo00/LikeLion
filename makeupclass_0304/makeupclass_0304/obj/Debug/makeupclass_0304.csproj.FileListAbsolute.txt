@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\makeupclass_0304\makeupclass_0304\bin\Debug\makeupclass_0304.exe.config
+C:\LikeLion\LikeLion\makeupclass_0304\makeupclass_0304\bin\Debug\makeupclass_0304.exe
+C:\LikeLion\LikeLion\makeupclass_0304\makeupclass_0304\bin\Debug\makeupclass_0304.pdb
+C:\LikeLion\LikeLion\makeupclass_0304\makeupclass_0304\obj\Debug\makeupclass_0304.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\makeupclass_0304\makeupclass_0304\obj\Debug\makeupclass_0304.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\makeupclass_0304\makeupclass_0304\obj\Debug\makeupclass_0304.exe
+C:\LikeLion\LikeLion\makeupclass_0304\makeupclass_0304\obj\Debug\makeupclass_0304.pdb
