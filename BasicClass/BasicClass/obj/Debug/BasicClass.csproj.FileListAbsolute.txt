@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\BasicClass\BasicClass\bin\Debug\BasicClass.exe.config
+C:\LikeLion\LikeLion\BasicClass\BasicClass\bin\Debug\BasicClass.exe
+C:\LikeLion\LikeLion\BasicClass\BasicClass\bin\Debug\BasicClass.pdb
+C:\LikeLion\LikeLion\BasicClass\BasicClass\obj\Debug\BasicClass.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\BasicClass\BasicClass\obj\Debug\BasicClass.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\BasicClass\BasicClass\obj\Debug\BasicClass.exe
+C:\LikeLion\LikeLion\BasicClass\BasicClass\obj\Debug\BasicClass.pdb

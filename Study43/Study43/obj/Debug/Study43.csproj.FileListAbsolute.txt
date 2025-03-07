@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\Study43\Study43\bin\Debug\Study43.exe.config
+C:\LikeLion\LikeLion\Study43\Study43\bin\Debug\Study43.exe
+C:\LikeLion\LikeLion\Study43\Study43\bin\Debug\Study43.pdb
+C:\LikeLion\LikeLion\Study43\Study43\obj\Debug\Study43.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\Study43\Study43\obj\Debug\Study43.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\Study43\Study43\obj\Debug\Study43.exe
+C:\LikeLion\LikeLion\Study43\Study43\obj\Debug\Study43.pdb
